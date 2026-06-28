@@ -109,4 +109,4 @@ Project_2_Customer_Segmentation/
 
 ## Author
 
-Kavya
+Rudra
